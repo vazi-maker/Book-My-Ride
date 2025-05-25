@@ -1,0 +1,35 @@
+/* Custom Styles for BookMyRide */
+
+/* Logo Styling */
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: orange;
+}
+
+
+/* Ensure cards have consistent height */
+.card {
+    height: 100%;
+}
+
+/* Footer Links */
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Adjust spacing for better readability */
+section button{
+
+    color:white;
+    background-color: black;
+}
+
+/* Ensure buttons have consistent padding */
+.btn-dark {
+    padding: 0.75rem 1.5rem;
+}
